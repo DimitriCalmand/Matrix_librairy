@@ -47,6 +47,5 @@ With `USE_SIMD=2`, the library integrates with the Intel MKL, a highly optimized
   
 - The library is designed for ease of use and high performance in matrix computations.
 
-Explore the documentation for a comprehensive understanding of available functions and how to utilize the library effectively.
 
 
